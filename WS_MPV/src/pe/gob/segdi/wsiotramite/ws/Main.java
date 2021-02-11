@@ -7,7 +7,7 @@ public class Main {
 		Double cou=Math.random()*100;
 		System.out.println(cou);
 		Long coutemp=Math.round(Math.random()*100);
-		System.out.println(coutemp);
+		System.out.println("Hola Mundo");
 	}
 
 }
